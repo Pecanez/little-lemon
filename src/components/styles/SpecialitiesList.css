@@ -1,0 +1,55 @@
+.specialities-section-container {
+    width: 100%;
+    max-width: 85rem;
+    margin: 2rem auto;
+    padding: 2rem 0;
+}
+
+.specialities-section-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-menu {
+    padding: 15px 45px;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .specialities-section-container {
+        width: 100%;
+        padding-top: 1rem;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .specialities-section-title h2 {
+        line-height: 0.8;
+        margin: 20px 0 20px;
+        font-size: 1.5em;
+    }
+
+    .btn-menu {
+        margin-bottom: 30px;
+        font-size: smaller;
+    }
+
+    
+}
+
+@media screen and (max-width: 852px) {
+    .specialities-section-container {
+        padding-top: 1.5rem;
+    }
+}
+
+
+
+
+@media screen and (max-width: 659px) {
+    .specialities-section-title {
+        flex-direction: column;
+    }
+
+}

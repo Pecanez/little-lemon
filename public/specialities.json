@@ -1,0 +1,17 @@
+[
+    {
+        "image": "../components/assets/carbonara.jpg",
+        "title": "Pasta Carbonara",
+        "description": "Indulge in the creamy delight of Pasta Carbonara, a classic Italian dish. Savor the rich combination of perfectly cooked pasta, velvety sauce infused with eggs and cheese, and savory guanciale. Each bite is a heavenly experience that will leave you craving for more."
+    },
+    {
+        "image": "../components/assets/moussaka.jpg",
+        "title": "Moussaka",
+        "description": "Experience the flavors of Greece with our tantalizing Moussaka. Layers of tender eggplant, seasoned ground meat, and potatoes are baked to perfection, topped with a luscious béchamel sauce. The aromatic spices will transport you to the Mediterranean, igniting your appetite and leaving you yearning for another delightful serving."
+    },
+    {
+        "image": "../components/assets/paella.jpg",
+        "title": "Paella",
+        "description": "Immerse yourself in the vibrant colors and flavors of Spain with our exquisite Paella. This iconic dish features saffron-infused rice, tender chicken, succulent seafood, and a medley of vegetables, all cooked together in perfect harmony. Each spoonful offers a burst of aromatic spices and tantalizing textures that will make your taste buds dance with delight."
+    }
+]
